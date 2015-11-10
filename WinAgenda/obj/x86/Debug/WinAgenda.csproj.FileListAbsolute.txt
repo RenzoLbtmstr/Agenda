@@ -1,0 +1,24 @@
+C:\Users\Juanjo\AppData\Local\Temporary Projects\WinAgenda\bin\Debug\WinAgenda.exe
+C:\Users\Juanjo\AppData\Local\Temporary Projects\WinAgenda\bin\Debug\WinAgenda.pdb
+C:\Users\Juanjo\AppData\Local\Temporary Projects\WinAgenda\obj\x86\Debug\WinAgenda.Form1.resources
+C:\Users\Juanjo\AppData\Local\Temporary Projects\WinAgenda\obj\x86\Debug\WinAgenda.Properties.Resources.resources
+C:\Users\Juanjo\AppData\Local\Temporary Projects\WinAgenda\obj\x86\Debug\WinAgenda.csproj.GenerateResource.Cache
+C:\Users\Juanjo\AppData\Local\Temporary Projects\WinAgenda\obj\x86\Debug\WinAgenda.exe
+C:\Users\Juanjo\AppData\Local\Temporary Projects\WinAgenda\obj\x86\Debug\WinAgenda.pdb
+C:\Users\Juanjo\documents\visual studio 2010\Projects\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.exe
+C:\Users\Juanjo\documents\visual studio 2010\Projects\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.pdb
+C:\Users\Juanjo\documents\visual studio 2010\Projects\WinAgenda\WinAgenda\bin\Debug\WinAgenda.exe
+C:\Users\Juanjo\documents\visual studio 2010\Projects\WinAgenda\WinAgenda\bin\Debug\WinAgenda.pdb
+C:\Users\Juanjo\documents\visual studio 2010\Projects\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Form1.resources
+C:\Users\Juanjo\documents\visual studio 2010\Projects\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Properties.Resources.resources
+C:\Users\Juanjo\documents\visual studio 2010\Projects\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.csproj.GenerateResource.Cache
+C:\Users\Juanjo\documents\visual studio 2010\Projects\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Modificar.resources
+C:\Users\Renzo\Desktop\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.exe
+C:\Users\Renzo\Desktop\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.pdb
+C:\Users\Renzo\Desktop\WinAgenda\WinAgenda\bin\Debug\WinAgenda.exe
+C:\Users\Renzo\Desktop\WinAgenda\WinAgenda\bin\Debug\WinAgenda.pdb
+C:\Users\Renzo\Desktop\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.csprojResolveAssemblyReference.cache
+C:\Users\Renzo\Desktop\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Form1.resources
+C:\Users\Renzo\Desktop\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Modificar.resources
+C:\Users\Renzo\Desktop\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.Properties.Resources.resources
+C:\Users\Renzo\Desktop\WinAgenda\WinAgenda\obj\x86\Debug\WinAgenda.csproj.GenerateResource.Cache
